@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://enzo-massarioli.github.io/sitemap.xml
